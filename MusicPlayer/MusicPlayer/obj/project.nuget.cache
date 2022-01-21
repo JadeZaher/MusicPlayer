@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSxciE8mYz9XbW/YkkuYRrf/ZiSMaV5BVnMiQ6KHiWKmqtfHmqjylTV18EIzti+pSkUmOohLtoILPZstQTkA9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pacif\\Documents\\MusicPlayer\\MusicPlayer\\MusicPlayer\\MusicPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pacif\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\plugin.mediamanager\\1.0.9\\plugin.mediamanager.1.0.9.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\plugin.mediamanager.forms\\1.0.9\\plugin.mediamanager.forms.1.0.9.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\xamarin.forms\\5.0.0.2125\\xamarin.forms.5.0.0.2125.nupkg.sha512",
+    "C:\\Users\\pacif\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}
